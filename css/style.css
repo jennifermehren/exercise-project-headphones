@@ -1,3 +1,5 @@
+/* ---------- allgemeines Styling mit Nav und Header und Section About */
+
 *{
     padding: 0;
     margin: 0;
@@ -63,6 +65,7 @@ header img:hover{
 aside{
     position: fixed;
     margin: 1.2rem;
+    z-index: 99;
 }
 
 nav li{
@@ -145,5 +148,4 @@ nav li{
     padding: 2rem 6rem 0 0;
     font-size: var(--font-size-standard);
 }
-
 
