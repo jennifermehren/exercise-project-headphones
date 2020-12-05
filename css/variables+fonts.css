@@ -1,0 +1,18 @@
+:root{
+    --dark-color: #2e2e2e;
+    --brown-color:#867772;
+    --light-color: rgb(234, 204, 194);
+    --grey-color: rgb(115, 115, 115);
+    --white-color: #fff;
+    --font-size-standard: .8rem;
+}
+
+@font-face{
+    font-family: "Work Sans";
+    src: local("Work Sans"), local("Work Sans Regular"), 
+    url("/fonts/work-sans-v5-latin-regular.eot") format("opentype"),
+    url("/fonts/work-sans-v5-latin-regular.svg") format("svg"),
+    url("/fonts/work-sans-v5-latin-regular.ttf") format("truetype"),
+    url("/fonts/work-sans-v5-latin-regular.woff") format("woff"),
+    url("/fonts/work-sans-v5-latin-regular.woff2") format("woff2");
+}
