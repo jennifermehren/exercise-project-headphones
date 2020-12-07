@@ -149,3 +149,20 @@ nav li{
     font-size: var(--font-size-standard);
 }
 
+/* ---------newsletter-------- */
+
+.newsletter{
+    height: 100vh;
+    text-align: center;
+    margin: auto auto;
+}
+
+.newsletter h1{
+    margin: 20vh 0 10vh 0vh;
+}
+
+.newsletter p{
+    margin-bottom: 5vh;;
+}
+
+
