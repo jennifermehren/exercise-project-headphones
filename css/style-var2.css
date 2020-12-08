@@ -11,7 +11,6 @@ header{
     width: 100vw;
 }
 
-
 .section-style-var2{
     background-color: white;
     display: flex;
@@ -46,13 +45,13 @@ header{
 }
 
 #lounger-pic{
-    background: url(/img/section-voyager.jpg);
+    background: url(../img/section-voyager.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #experience-pic{
-    background: url(/img/section-experience-1.jpg);
+    background: url(../img/section-experience-1.jpg);
     background-position: center;
     background-size: cover;
 }
