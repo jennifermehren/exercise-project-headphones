@@ -1,0 +1,63 @@
+/* ---------Styling Var 2 (Lounger & Experience) --------- */
+
+body{
+    max-height: 100vh;
+}
+
+header{
+    position: absolute;
+    z-index: 100;
+    display: flex;
+    width: 100vw;
+}
+
+
+.section-style-var2{
+    background-color: white;
+    align-items: right;
+    display: flex;
+    position: relative;
+    top: 0;
+    width: 100vw;
+}
+
+#text-style-var2 {
+    position: relative;
+    width: 45vw;
+    background-color: var(--dark-color);
+    line-height: 1.5rem;
+    padding: 8rem 9rem 0 2rem;
+    font-size: var(--font-size-standard);
+}
+
+#text-style-var2 h1{
+    margin: 15% 0 6rem 0;
+    font-size: 2.5rem;
+}
+
+#text-style-var2 p{
+    line-height: 1.6rem;
+}
+
+.picture-style-var2{  
+    height: 100vh;
+    width: 55vw;
+    position: relative;
+    top: 0;
+}
+
+#lounger-pic{
+    background: url(/img/section-voyager.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#experience-pic{
+    background: url(/img/section-experience-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
